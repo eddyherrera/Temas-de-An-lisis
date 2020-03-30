@@ -1,1 +1,8 @@
 
+#Función
+particion = function(a,b,n){
+  h=(b-a)/n
+  i = 0:n # "i" es un vector
+  a + h*i # la salida es un vector
+}
+particion(1,4,8)
