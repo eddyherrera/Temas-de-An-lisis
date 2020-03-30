@@ -6,3 +6,4 @@ particion = function(a,b,n){
   a + h*i # la salida es un vector
 }
 particion(1,4,8)
+hhhh
